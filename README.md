@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, my name is Fabio Michele Russo.
+# Hello, my name is Fabio Michele Russo.
 
 I’m a **data science** & **BI** student in Pisa, Italy. He/him. <!-- [Here’s my website](https://).-->
 
