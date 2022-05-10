@@ -1,8 +1,4 @@
-### Hi there 👋
-
 <!--
-**gatto/gatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, my name is Fabio Michele Russo.
+
+I’m a **data science** & **BI** student in Pisa, Italy. He/him. <!-- [Here’s my website](https://).-->
+
+You can reach me via email. <a href="https://spamty.eu/show/v6/1355/3e4308f8293f42b53404c024/" onclick="mailhidepopup=window.open('https://spamty.eu/show/v6/1355/3e4308f8293f42b53404c024/','mailhidepopup','width=580,height=635'); return false;">Do write me</a>.
